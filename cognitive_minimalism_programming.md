@@ -1,7 +1,6 @@
 # Cognitive Minimalism in Programming
 ## Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices
-**William Murray**
----
+William Murray
 7 August 2025
 ---
 
