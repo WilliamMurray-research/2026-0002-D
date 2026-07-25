@@ -16,14 +16,14 @@ This paper focuses on the deductive mode. While not universally applicable, it i
 
 Deductive prototyping proceeds through a structured sequence designed to minimise epistemic ambiguity:
 
-- Conjecture — a crisp, falsifiable claim about system behaviour  
-- Hypothesis — a formalised, testable representation of the conjecture  
-- Constraint model — selection of the strongest available constraint:  
+- Conjecture - a crisp, falsifiable claim about system behaviour  
+- Hypothesis - a formalised, testable representation of the conjecture  
+- Constraint model - selection of the strongest available constraint:  
   - mathematical, when the domain admits formal specification  
   - empirical, when behaviour cannot be fully formalised  
   - algorithmic, when computational limits (e.g., complexity bounds, resource ceilings, decidability constraints) determine feasibility  
-- Algorithm or mechanism — operationalisation of the constrained hypothesis  
-- Minimal viable prototype — instantiation for empirical validation  
+- Algorithm or mechanism - operationalisation of the constrained hypothesis  
+- Minimal viable prototype - instantiation for empirical validation  
 
 The selection principle for constraint models is straightforward: choose the constraint that eliminates the largest class of potential errors prior to implementation. In software, mathematical and algorithmic constraints frequently dominate; in other domains, empirical constraints may be primary. The objective is methodological precision rather than adherence to any single epistemic ideal.
 
@@ -35,9 +35,9 @@ Deductive prototyping yields a distinct class of epistemic outcomes. Its advanta
 
 - Early structural error detection - Formal and algorithmic constraints expose category‑level flaws (e.g., undecidability, intractable complexity, structural impossibility) before implementation. This prevents substantial downstream expenditure on prototypes that are non‑viable in principle.
 
-- Boundary testing between theory and execution — Deductive prototypes evaluate whether formally reasoned mechanisms withstand real‑world constraints. They test the fidelity of theoretical models under practical conditions, rather than serving as exploratory searches for the underlying idea.
+- Boundary testing between theory and execution - Deductive prototypes evaluate whether formally reasoned mechanisms withstand real‑world constraints. They test the fidelity of theoretical models under practical conditions, rather than serving as exploratory searches for the underlying idea.
 
-- High‑leverage refinement — Because deductive prototypes instantiate constrained mechanisms, refinements tend to be structural rather than local. Improvements propagate through the system architecture, producing more coherent designs and reducing the accumulation of ad hoc patches.
+- High‑leverage refinement - Because deductive prototypes instantiate constrained mechanisms, refinements tend to be structural rather than local. Improvements propagate through the system architecture, producing more coherent designs and reducing the accumulation of ad hoc patches.
 
 These advantages do not imply superiority across all contexts. Instead, they indicate that deductive prototyping provides **high‑leverage epistemic value in domains where formal constraints are accessible**, which includes a substantial portion of software engineering.
 
