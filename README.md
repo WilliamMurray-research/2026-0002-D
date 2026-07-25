@@ -39,4 +39,30 @@ The project portfolio is where these ideas are built. This repository is where t
 
 ---
 
+## Summaries
+
+### The Architecture of Plausibility
+
+This paper deconstructs the operational reality of large language models, arguing that they are fundamentally statistical "plausibility engines" optimized for linguistic coherence rather than empirical correspondence with reality. Because their training focuses on next-token prediction rather than factual grounding, they produce authoritative hallucinations and logical mimicry that place a heavy cognitive burden on human auditors. To mitigate these risks, the framework advocates for an architectural separation of concerns - anchoring volatile models to verifiable truth structures through Retrieval-Augmented Generation (RAG), programmatic execution tools, and disciplined validation boundaries.
+
+### Cognitive Minimalism in Programming
+
+This ideative research report proposes a framework for programming best practices based on Occam's Razor and Cognitive Load Theory to promote cognitive minimalism and epistemic restraint. The report argues that languages and practices designed to reduce cognitive burden can improve developer productivity, code maintainability, and system comprehensibility, particularly for neurodivergent individuals and in complex modular systems.
+
+### The First Honest Machine
+
+I argue that the fundamental challenge facing artificial intelligence is not scaling capability, but engineering "honest" systems whose internal reasoning is transparent, governed, and resilient against "drift" - the silent accumulation of unexamined errors across intermediate states. Murray contends that current monolithic AI models operate as inscrutable statistical engines, creating institutional fragility when deployed in high-stakes environments where output justification is essential. To solve this, he proposes replacing end-to-end decoding with a governed, dual-chamber architecture that structurally separates generative synthesis from symbolic runtime governance, utilizes a multi-stage proposer–validator pipeline, maintains an auditable, deterministic memory ledger, and employs documentation as an unyielding constitutional substrate. Ultimately, Murray concludes that the future of artificial intelligence belongs not to the most powerful models, but to constitutional architectures engineered for verifiable structural integrity and trust.
+
+### The Latency–Accuracy Exchange Principle
+
+This paper introduces the latency–accuracy exchange principle: the idea that time is a resource deliberately invested to purchase correctness, determinism, and governance fidelity. Drawing on complexity theory, verification, distributed systems, and safety critical engineering, it argues that many systems should invert the industry’s speed first bias. The principle provides a formal lens for designing systems where correctness is paramount, demonstrating its application across databases, compilers, APIs, distributed consensus, and testing architectures.
+
+### A Multi-Model, Syntax-Preserving, Drift-Resistant Conjecture-to-Proof Pipeline
+
+A technical manuscript outlining a structured, operator‑directed workflow for multi‑model conjecture formation, critique, formalisation, and proof verification. Emphasises drift‑resistance, syntax preservation, falsifiability, and rigorous versioning across all phases of reasoning.
+
+
+
+---
+
 *All work here is original unless cited.*
