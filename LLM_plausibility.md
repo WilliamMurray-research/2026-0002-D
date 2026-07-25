@@ -1,7 +1,8 @@
 # The Architecture of Plausibility
 ## Reconceptualising Large Language Models Beyond the Knowledge Base Paradigm
-**William Murray**
-**May 19, 2026**
+
+#### William Murray
+##### 19 May 2026
 
 ---
 
