@@ -1,6 +1,8 @@
 # Papers
 
-A repository for original frameworks and principles - named, formalised, and examined across domains. Often, I am drawn to moments where a field is using the a conceptual frame I consider to be incorrect or insufficiently defined, and I endeavour to replace with with a more precise framing.
+A repository for original frameworks and principles - named, formalised, and examined across domains.
+
+I am drawn to moments where a field is navigating by the wrong conceptual frame: where practitioners have inherited a framing that is imprecise, inverted, or simply unnamed. The work here attempts to replace those frames with more precise ones - to make implicit trade-offs explicit, and to give vocabulary to mechanisms that exist in practice but resist articulation.
 
 Each piece takes something practitioners navigate by intuition and makes it explicit: a trade-off with a name, a mechanism with a structure, a pattern that recurs across domains that appear unrelated. The cross-domain applicability is the test. If a principle only holds in one place, it is an observation. If it holds in five, it is a framework.
 
