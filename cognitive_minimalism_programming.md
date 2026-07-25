@@ -1,7 +1,8 @@
 # Cognitive Minimalism in Programming
 Applying Occam's Razor and Cognitive Load Theory to Software Development Best Practices
+---
 William Murray
-Aug 07, 2025
+7 August 2025
 
 ## 1. Introduction
 The intersection of philosophical parsimony and cognitive science offers profound insights for software development practices. William of Ockham's principle of ontological economy – commonly expressed as "do not unnecessarily multiply entities” – provides a compelling framework for evaluating programming languages, system architectures, and development methodologies. When combined with Cognitive Load Theory (CLT), which elucidates how human working memory processes complex information, these principles converge to suggest that optimal programming practices should prioritise cognitive minimalism without sacrificing expressive capability.
