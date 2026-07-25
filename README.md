@@ -51,7 +51,7 @@ This ideative research report proposes a framework for programming best practice
 
 ### The First Honest Machine
 
-I argue that the fundamental challenge facing artificial intelligence is not scaling capability, but engineering "honest" systems whose internal reasoning is transparent, governed, and resilient against "drift" - the silent accumulation of unexamined errors across intermediate states. Murray contends that current monolithic AI models operate as inscrutable statistical engines, creating institutional fragility when deployed in high-stakes environments where output justification is essential. To solve this, he proposes replacing end-to-end decoding with a governed, dual-chamber architecture that structurally separates generative synthesis from symbolic runtime governance, utilizes a multi-stage proposer–validator pipeline, maintains an auditable, deterministic memory ledger, and employs documentation as an unyielding constitutional substrate. Ultimately, Murray concludes that the future of artificial intelligence belongs not to the most powerful models, but to constitutional architectures engineered for verifiable structural integrity and trust.
+I argue that the fundamental challenge facing artificial intelligence is not scaling capability, but engineering "honest" systems whose internal reasoning is transparent, governed, and resilient against "drift" - the silent accumulation of unexamined errors across intermediate states. I contend that current monolithic AI models operate as inscrutable statistical engines, creating institutional fragility when deployed in high-stakes environments where output justification is essential. To solve this, I propose replacing end-to-end decoding with a governed, dual-chamber architecture that structurally separates generative synthesis from symbolic runtime governance, utilises a multi-stage proposer–validator pipeline, maintains an auditable, deterministic memory ledger, and employs documentation as an unyielding constitutional substrate. Ultimately, I conclude the future of artificial intelligence belongs not to the most powerful models, but to constitutional architectures engineered for verifiable structural integrity and trust.
 
 ### The Latency–Accuracy Exchange Principle
 
@@ -60,8 +60,6 @@ This paper introduces the latency–accuracy exchange principle: the idea that t
 ### A Multi-Model, Syntax-Preserving, Drift-Resistant Conjecture-to-Proof Pipeline
 
 A technical manuscript outlining a structured, operator‑directed workflow for multi‑model conjecture formation, critique, formalisation, and proof verification. Emphasises drift‑resistance, syntax preservation, falsifiability, and rigorous versioning across all phases of reasoning.
-
-
 
 ---
 
