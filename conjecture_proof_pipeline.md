@@ -1,7 +1,8 @@
 # A Multi-Model, Syntax-Preserving, Drift-Resistant Conjecture-to-Proof Pipeline
 **Version 0.1.0**
-William Murray
-Jul 21, 2026
+---
+#### William Murray
+##### 21 July 2026
 
 ## Abstract
 This document describes a disciplined, operator-driven epistemic workflow for generating, refining, assessing, and formalising conjectures using multiple language models in coordinated roles. The pipeline is designed for a human operator with generalist, systems-analytic cognition who directs all critical decisions. It emphasises drift-resistance, falsifiability, syntax preservation, and rigorous versioning. The result is a structured method for producing stable conjectures and proofs without succumbing to semantic drift, polite-agreement bias, or premature closure. All convergence judgements are made by the operator.
