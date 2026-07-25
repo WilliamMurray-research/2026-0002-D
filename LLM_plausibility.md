@@ -21,6 +21,7 @@ Because human knowledge repositories are generally structured around logical, fa
 ## III. Case Studies in Plausibility
 The practical consequences of the plausibility paradigm manifest visibly in common model behaviors, most notably the phenomenon of authoritative hallucination. When a user requests legal precedents or academic literature, the model does not query an indexed database; it synthesises text that mimics the exact nomenclature, formatting, and stylistic conventions of legal briefs or peer-reviewed journals. The resulting citations – though entirely fabricated – appear hyper-realistic because they maintain the structural plausibility demanded by the prompt.
 
+```
                [ Linguistic Coherence ] 
              (Syntactic flow, academic rhythm)
                             │
@@ -32,6 +33,7 @@ The practical consequences of the plausibility paradigm manifest visibly in comm
                             │
                [ Empirical Correspondence ]
              (External facts, verified data)
+```
 
 A parallel failure mode occurs within the illusion of logic, particularly during mathematical or computational problem-solving. LLMs effortlessly replicate the sequential, step-by-step structure of a mathematical proof, deploying transitional phrases such as “therefore,” “it follows that,” and “consequently” with high stylistic fidelity. Yet, because the engine simulates the appearance of analytical derivation rather than executing symbolic computation, it frequently commits basic arithmetic errors while preserving an unearned tone of absolute certainty.
 
@@ -48,7 +50,7 @@ Finally, this reliance fosters a culture of epistemic lasiness across civic and 
 Mitigating these systemic risks requires a deliberate architectural separation of concerns. Engineers must cease utilising the core weights of an LLM as a static information repository; instead, development must focus on constraining the generative engine using external validation mechanisms.
 
 ### The Retrieval-Augmented Generation (RAG) Framework
-The primary methodology for achieving this constraint is Retrieval-Augmented Generation (RAG). A RAG framework forces the model to extract information from a verified, dynamic knowledge corpus before initiating the generation process.
+Mitigating these systemic risks requires a deliberate architectural separation of concerns. Engineers must cease utilising the core weights of an LLM as a static information repository; instead, development must focus on constraining the generative engine using external validation mechanisms.
 
 ```
    ┌──────────────────┐          ┌──────────────────┐
@@ -71,7 +73,7 @@ The primary methodology for achieving this constraint is Retrieval-Augmented Gen
                                └──────────────────┘
 ```
 
-By restricting the token-prediction sequence to the explicit boundaries of provided reference documents, developers significantly suppress the model’s inclination to fabricate plausible fictions, effectively transforming it from a free-associative generator into a rigorous contextual synthesiser.
+The primary methodology for achieving this constraint is Retrieval-Augmented Generation (RAG). A RAG framework forces the model to extract information from a verified, dynamic knowledge corpus before initiating the generation process. By restricting the token-prediction sequence to the explicit boundaries of provided reference documents, developers significantly suppress the model’s inclination to fabricate plausible fictions, effectively transforming it from a free-associative generator into a rigorous contextual synthesiser.
 
 Beyond retrieval constraints, modern architectures integrate specialised programmatic tools, such as sandboxed code interpreters. When confronted with a mathematical query or a complex logical operation, the model writes and executes a script to compute the exact answer rather than guessing the next plausible token. This evolution shifts the role of the LLM from an ungrounded computational solver to a high-level programmatic director.
 
