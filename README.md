@@ -61,6 +61,10 @@ This paper introduces the latency–accuracy exchange principle: the idea that t
 
 A technical manuscript outlining a structured, operator‑directed workflow for multi‑model conjecture formation, critique, formalisation, and proof verification. Emphasises drift‑resistance, syntax preservation, falsifiability, and rigorous versioning across all phases of reasoning.
 
+### Prototyping as an Epistemic Taxonomy in Software Systems
+
+This paper advances a taxonomy of prototyping in software systems, distinguishing abductive, inductive, and deductive modes, and argues that deductive prototyping offers a structurally rigorous alternative to intuition‑driven exploration. By formalising conjectures into hypotheses, grounding them in mathematical, empirical, or algorithmic constraint models, and deriving mechanisms prior to implementation, deductive prototyping reduces pre‑execution uncertainty, exposes structural impossibilities early, and enables system‑wide refinements rather than local patching. The framework positions deductive prototyping as a high‑leverage epistemic method in domains where formal constraints are available, reframing prototype construction as a disciplined knowledge‑generation process rather than an exploratory artefact.
+
 ---
 
 *All work here is original unless cited.*
