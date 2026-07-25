@@ -45,5 +45,5 @@ These advantages do not imply superiority across all contexts. Instead, they ind
 
 ## **Conclusion**
 
-> **Deductive prototyping constitutes one rigorous mode within a broader epistemic taxonomy. In software systems, where formal and algorithmic constraints are often available, it offers an underutilised and methodologically powerful approach for producing prototypes grounded in structured reasoning rather than unguided exploration.**
+**Deductive prototyping constitutes one rigorous mode within a broader epistemic taxonomy. In software systems, where formal and algorithmic constraints are often available, it offers an underutilised and methodologically powerful approach for producing prototypes grounded in structured reasoning rather than unguided exploration.**
 
