@@ -21,15 +21,17 @@ Because human knowledge repositories are generally structured around logical, fa
 ## III. Case Studies in Plausibility
 The practical consequences of the plausibility paradigm manifest visibly in common model behaviors, most notably the phenomenon of authoritative hallucination. When a user requests legal precedents or academic literature, the model does not query an indexed database; it synthesises text that mimics the exact nomenclature, formatting, and stylistic conventions of legal briefs or peer-reviewed journals. The resulting citations – though entirely fabricated – appear hyper-realistic because they maintain the structural plausibility demanded by the prompt.
 
-### Linguistic Coherence vs. Empirical Correspondence
-The model prioritises linguistic coherence over empirical correspondence:
-
-| Linguistic Coherence | Empirical Correspondence |
-| :--- | :--- |
-| (Syntactic flow, academic rhythm) | (External facts, verified data) |
-| **▼** | |
-| **PLAUSIBILITY ENGINE** | Generates plausible fiction |
-| **└─────────────────────────┘** | |
+               [ Linguistic Coherence ] 
+             (Syntactic flow, academic rhythm)
+                            │
+                            ▼
+               ┌─────────────────────────┐
+               │   PLAUSIBILITY ENGINE   │ ──► Generates plausible fiction
+               └─────────────────────────┘
+                            ▲
+                            │
+               [ Empirical Correspondence ]
+             (External facts, verified data)
 
 A parallel failure mode occurs within the illusion of logic, particularly during mathematical or computational problem-solving. LLMs effortlessly replicate the sequential, step-by-step structure of a mathematical proof, deploying transitional phrases such as “therefore,” “it follows that,” and “consequently” with high stylistic fidelity. Yet, because the engine simulates the appearance of analytical derivation rather than executing symbolic computation, it frequently commits basic arithmetic errors while preserving an unearned tone of absolute certainty.
 
@@ -49,17 +51,24 @@ Mitigating these systemic risks requires a deliberate architectural separation o
 The primary methodology for achieving this constraint is Retrieval-Augmented Generation (RAG). A RAG framework forces the model to extract information from a verified, dynamic knowledge corpus before initiating the generation process.
 
 ```
-User Input Text ───────► Retrieval-Augmented Generation (RAG) System ───────► Grounded Data
-                                                                            │
-                                                                    ┌──────────────────┐
-                                                                    │  Trusted Corpus  │
-                                                                    └────────┬─────────┘
-                                                                         │
-                                                                         ▼
-                                                   ┌──────────────────┐
-                                                   │  Grounded LLM   │
-                                                   │  Output Text     │
-                                                   └──────────────────┘
+   ┌──────────────────┐          ┌──────────────────┐
+   │                  │  Query   │                  │
+   │  User Input Text │ ───────► │    RAG System    │
+   │                  │          │                  │
+   └────────┬─────────┘          └────────┬─────────┘
+            │                             │ Retrieves
+            │                             ▼ Grounded Data
+            │                    ┌──────────────────┐
+            │   Bound Prompt     │                  │
+            └──────────────────► │  Trusted Corpus  │
+                                 │                  │
+                                 └────────┬─────────┘
+                                          │
+                                          ▼
+                               ┌──────────────────┐
+                               │   Grounded LLM   │
+                               │  Output Text     │
+                               └──────────────────┘
 ```
 
 By restricting the token-prediction sequence to the explicit boundaries of provided reference documents, developers significantly suppress the model’s inclination to fabricate plausible fictions, effectively transforming it from a free-associative generator into a rigorous contextual synthesiser.
