@@ -1,4 +1,4 @@
-# Papers
+# Theory
 
 A repository for original frameworks, principles, ideas, hypotheses, and informal proofs.
 
