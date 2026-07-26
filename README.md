@@ -65,6 +65,10 @@ A technical manuscript outlining a structured, operator‑directed workflow for 
 
 This paper advances a taxonomy of prototyping in software systems, distinguishing abductive, inductive, and deductive modes, and argues that deductive prototyping offers a structurally rigorous alternative to intuition‑driven exploration. By formalising conjectures into hypotheses, grounding them in mathematical, empirical, or algorithmic constraint models, and deriving mechanisms prior to implementation, deductive prototyping reduces pre‑execution uncertainty, exposes structural impossibilities early, and enables system‑wide refinements rather than local patching. The framework positions deductive prototyping as a high‑leverage epistemic method in domains where formal constraints are available, reframing prototype construction as a disciplined knowledge‑generation process rather than an exploratory artefact.
 
+### Risk as a First-Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi-Autonomous Systems
+
+This whitepaper argues that risk must be treated as a first‑class entity in the design of autonomous and semi‑autonomous systems. Drawing on decades of professional experience witnessing unmanaged risk bankrupt organisations and cause real‑world harm, it establishes ISO 27000, ISO 31000, and ISO 42001 as the minimum acceptable professional standard for responsible automation. The paper outlines how modern failure modes exceed human intuition, why traditional engineering cultures fall short, and how risk‑first architecture provides the only defensible foundation for safe, governed, and accountable system design.
+
 ---
 
 *All work here is original unless cited.*
