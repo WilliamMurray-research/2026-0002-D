@@ -1,5 +1,7 @@
 ## Asset Registry 
 
+/governance/documents/
+
 | **Document Reference** | **Type / Suffix** | **Canonical Title** |
 |------------------------|-------------------|----------------------|
 | `2026-001-meta_spec`   | `meta_spec`       | Unified Corpus Meta‑Standard (U‑CMS) |
@@ -11,4 +13,15 @@
 | `2026-007-roadmap`     | `roadmap`         | Corpus Roadmap v1.1 |
 
 ---
+
+/papers/
+
+
+---
+
+/whitepapers/
+
+
+---
+
 
