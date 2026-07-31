@@ -3,8 +3,8 @@
 
 ### Project Whitepaper v1.0
 
-####William Murray
-####29 July 2026
+#### William Murray
+#### 29 July 2026
 
 ---
 
