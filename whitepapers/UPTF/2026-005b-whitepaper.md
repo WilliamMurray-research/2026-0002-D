@@ -2,7 +2,7 @@
 
 Document Reference: `2026-005b-whitepaper`
 
-# **Structural Emptiness and Null‑Space Artefacts in Deterministic Project Manifolds**
+# **Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways**
 
 ### Technical Standard v1.0
 
@@ -19,7 +19,7 @@ Document Reference: `2026-005b-whitepaper`
 
 ## Abstract
 
-This whitepaper describes a deterministic approach to representing structural emptiness within governed project manifolds. Explicit null-space artefacts ensure that unpopulated domains are treated as meaningful states rather than incidental absences. The approach is compatible with UPTF v0.0.3 and preserves all structural invariants defined therein.
+This whitepaper describes a deterministic approach to representing structural emptiness within governed project pathways. Explicit null-space artefacts ensure that unpopulated domains are treated as meaningful states rather than incidental absences. The approach is compatible with UPTF v0.0.3 and preserves all structural invariants defined therein.
 
 ---
 
@@ -33,7 +33,7 @@ This whitepaper describes a model for representing such emptiness using null-spa
 
 ## 2. Motivation
 
-A deterministic project manifold requires:
+A deterministic project pathway requires:
 
 - predictable directory traversal
 - explicit representation of unpopulated domains
@@ -90,16 +90,16 @@ This preserves UPTF invariants while adding optional semantic clarity and enabli
 
 ---
 
-## 5. The Directory Manifold
+## 5. The Directory pathway
 
-The project directory tree is treated as a manifold — a structured object whose nodes represent operational domains — with the following properties:
+The project directory tree is treated as a pathway — a structured object whose nodes represent operational domains — with the following properties:
 
 - immutability of canonical branches
 - explicit representation of emptiness
 - predictable extension rules
 - governance-aligned evolution
 
-This ensures the manifold remains stable across time, tooling, and contributors.
+This ensures the pathway remains stable across time, tooling, and contributors.
 
 ---
 
