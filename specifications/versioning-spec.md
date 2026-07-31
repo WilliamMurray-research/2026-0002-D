@@ -7,8 +7,9 @@ Document Reference: `2026-001-spec`
 #### 21 July 2026
 ---
 | **Status** | Stable |
-|:-:|:-:|
+| --- | --- |
 | **Scope** | Applicable to software systems, platforms, kernels, and governance engines requiring structured version control |
+| **Versioning Model** | Semantic Versioning (MAJOR.MINOR.PATCH) |
 ---
 
 ## **1. Introduction**
