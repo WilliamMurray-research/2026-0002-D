@@ -1,3 +1,4 @@
+Document Reference: `2026-001-DW-wp` 
 # **Dynamic Island Wallpaper: Astronomical Telemetry & Symbolic Sky Projection**  
 ### Technical Whitepaper v1.0 
 ---
