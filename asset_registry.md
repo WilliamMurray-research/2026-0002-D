@@ -50,7 +50,33 @@ Here are the updated registries with the **Classification** column integrated in
 | --- | --- | --- | --- |
 | `2026-003-whitepaper` | `D` | `whitepaper` | Universal Project Template Framework |
 | `2026-004-whitepaper` | `D` | `whitepaper` | Deterministic Architecture Generation via Double‑Entry YAML Ledgers and Prolog Execution Loops |
-| `2026-005-whitepaper` | `D` | `whitepaper` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Manifolds |
-| `2026-005b-whitepaper` | `D` | `whitepaper` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Manifolds |
+| `2026-005-whitepaper` | `D` | `whitepaper` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways |
+| `2026-005b-whitepaper` | `D` | `whitepaper` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways |
 
 ---
+
+
+
+## Security Classification Scheme
+
+| **Classification Code** | **Level / Name** | **Access Scope & Distribution** | **Description & Use Case** |
+| --- | --- | --- | --- |
+| **D** | **Public / Unrestricted** | Public domain; open distribution. | Default classification for public research papers, open-source specifications, and general whitepapers intended for external publication or auditability. |
+| **C** | **Internal / Restricted** | Restricted to internal teams or project contributors. | System specifications, internal technical roadpapers, or implementation notes that contain non-public operational details but no sensitive IP. |
+| **B** | **Confidential / Commercial** | Strictly controlled access; authorized personnel only. | Core proprietary algorithms, stealth project architectural specs, hardware containment design parameters, or pre-patent intellectual property. |
+| **A** | **Air-Gapped / Isolated** | Offline / Air-gapped environment execution only. | High-assurance security kernels, sovereign governance rules, or sensitive cryptographic/logic logic systems forbidden from networked environments. |
+
+---
+
+### SC‑TPGM Header Integration
+
+When applying these codes to document headers, the tier maps directly to the primary banner:
+
+```markdown
+# **CLASSIFICATION: D**  
+Document Reference: `2026-00X-type`  
+# **Document Title**  
+
+```
+
+
