@@ -32,7 +32,7 @@
 | **Document Reference** | **Type / Suffix** | **Canonical Title** |
 |------------------------|-------------------|----------------------|
 | `2026-001-whitepaper`        | `whitepaper`            | Dynamic Island Wallpaper |
-| `2026-002-paper`        | `whitepaper`            |  |
+
 
 /whitepapers/risk/
 
