@@ -1,3 +1,5 @@
+CLASSIFICATION: [e.g. STRICTLY CONFIDENTIAL]
+
 Document Reference: `YYYY-XXX-spec`
 # [Primary Title] - [Document Class or Standard Name]
 ### Technical Standard vX.Y
@@ -13,6 +15,7 @@ Document Reference: `YYYY-XXX-spec`
 **[Primary Model / Scheme]**: [e.g. Semantic Versioning (MAJOR.MINOR.PATCH)]
 
 ---
+
 
 ## **Scope**
 [Full scope statement, including applicability, boundaries, exclusions.]
