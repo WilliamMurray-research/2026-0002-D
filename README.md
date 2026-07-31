@@ -146,6 +146,4 @@ This repository is a governed archive dedicated to long‑arc mastery, structura
 ---
 
 
-- cross‑link scaffolding for each asset class  
 
-Just tell me which component you want next.
