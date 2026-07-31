@@ -42,10 +42,6 @@ This whitepaper formalises that two-layer model and specifies the hybrid Prolog/
 
 ---
 
-Here's the full revised document flow from Section 2 onwards, tightened for public consumption:
-
----
-
 ## 2. The Two-Layer Architecture Model
 
 The correct architecture is a two-layer system.
