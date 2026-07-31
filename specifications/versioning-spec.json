@@ -1,0 +1,215 @@
+{
+  "classification": "D",
+  "document_reference": "2026-001-spec",
+  "title": "Versioning Specification - General Reference Standard",
+  "technical_standard_version": "1.0",
+  "governance_architecture_specification": true,
+  "author": "William Murray",
+  "date": "2026-07-21",
+  "status": "Stable",
+  "scope": "Applicable to software systems, platforms, kernels, and governance engines requiring deterministic, auditable, constitutionally governed version control.",
+  "versioning_model": {
+    "format": "MAJOR.MINOR.PATCH",
+    "description": "Version identifiers encode structural evolution, capability expansion, and stability refinement."
+  },
+  "sections": {
+    "1_introduction": {
+      "summary": "Defines normative requirements for version identification, classification, governance, and lifecycle management."
+    },
+    "2_normative_references": {
+      "self_contained": true,
+      "optional_alignment": [
+        "ISO/IEC 27001",
+        "ISO/IEC/IEEE 42010",
+        "Semantic Versioning 2.0.0"
+      ]
+    },
+    "3_terms_and_definitions": {
+      "version_identifier": "Structured label consisting of MAJOR, MINOR, PATCH.",
+      "architectural_epoch": "System-wide structural change requiring MAJOR increment.",
+      "capability_expansion": "Backward-compatible functional enhancement requiring MINOR increment.",
+      "stability_refinement": "Non-behavioural improvement requiring PATCH increment.",
+      "design_corpus": "Authoritative documents defining architecture, governance, boundaries.",
+      "roadmap_corpus_versioned": "Version-controlled artefact defining intended system evolution."
+    },
+    "4_versioning_model": {
+      "major": "Architectural epoch",
+      "minor": "Capability expansion",
+      "patch": "Stability refinement"
+    },
+    "5_version_classes": {
+      "major": {
+        "description": "Structural or constitutional modifications.",
+        "conditions": [
+          "New architectural runtime or execution model",
+          "Enterprise-grade envelopes",
+          "Schema-breaking changes",
+          "Redefinition of module or subsystem boundaries",
+          "Modification of constitutional architecture or governance primitives"
+        ]
+      },
+      "minor": {
+        "description": "Backward-compatible capability expansion.",
+        "conditions": [
+          "New modules or subsystems",
+          "New CRUD or operational features",
+          "New synchronisation or integration capabilities",
+          "Security enhancements",
+          "Backward-compatible schema expansion",
+          "New UI pages, workflows, operational refinements"
+        ]
+      },
+      "patch": {
+        "description": "Non-behavioural stability improvements.",
+        "conditions": [
+          "Defect correction",
+          "UI/UX polish",
+          "Documentation improvements",
+          "Refactoring without behavioural change"
+        ],
+        "notes": [
+          "Schema changes shall not be classified as PATCH under v1.1."
+        ]
+      }
+    },
+    "6_version_governance_requirements": {
+      "documentation": "All changes recorded in changelog.",
+      "justification": "Each increment references an ADR.",
+      "adr_placement": [
+        "Git tag annotation",
+        "Changelog entry",
+        "Release metadata"
+      ],
+      "compatibility": "Backward compatibility preserved unless MAJOR increment.",
+      "corpus_integrity": "Design corpus integrity must be maintained."
+    },
+    "7_target_maturity_framework": {
+      "note": "Informative; does not constrain version arithmetic.",
+      "stages": {
+        "0x_pre_functional_scaffolding": {
+          "characteristics": [
+            "No functional logic",
+            "No persistence",
+            "No workflows",
+            "No authentication",
+            "No automation",
+            "No symbolic reasoning"
+          ],
+          "purpose": "Define membranes, module boundaries, scaffolding."
+        },
+        "1x_local_functional_kernel": {
+          "capabilities": [
+            "CRUD operations",
+            "Standards or document attachments",
+            "Local persistence",
+            "Local execution environment"
+          ],
+          "purpose": "Deterministic operational kernel."
+        },
+        "2x_symbolic_advanced_runtime": {
+          "capabilities": [
+            "Symbolic or logic-based runtimes",
+            "Event-driven architecture",
+            "Immutable logs",
+            "Cryptographic signing",
+            "Advanced reasoning or automation"
+          ],
+          "purpose": "Enable neurosymbolic or advanced governance."
+        },
+        "3x_enterprise_envelope": {
+          "capabilities": [
+            "Multi-tenancy",
+            "RBAC",
+            "Compliance integrations",
+            "Monitoring",
+            "Distributed or microservice architectures"
+          ],
+          "purpose": "Enterprise-grade governance and compliance."
+        }
+      }
+    },
+    "8_tagging_requirements": {
+      "rules": [
+        "All releases tagged using version identifier",
+        "Tagging consistent across documentation, changelog, release notes",
+        "Tagging forms part of audit trail"
+      ]
+    },
+    "9_pre_release_identifiers": {
+      "alpha": "Unstable, experimental",
+      "beta": "Feature-complete but unrefined",
+      "rc": "Release candidate",
+      "examples": [
+        "1.0.0-alpha",
+        "1.0.0-rc.1"
+      ]
+    },
+    "10_version_integrity_rules": {
+      "invalid_if": [
+        "Introduces undocumented behaviour",
+        "Violates structural or compliance alignment",
+        "Changes architecture without MAJOR increment",
+        "Adds features without MINOR increment",
+        "Fixes behaviour without PATCH increment",
+        "Contradicts corpus-versioned roadmap"
+      ],
+      "roadmap_governance": {
+        "rules": [
+          "Roadmap part of design corpus",
+          "Roadmap version-controlled",
+          "Deviations require ADR",
+          "Version invalid if contradicting roadmap"
+        ]
+      }
+    },
+    "11_corpus_change_protocol": {
+      "rules": [
+        "Corpus changes require ADR justification",
+        "Corpus changes altering boundaries require MAJOR increment",
+        "Corpus changes versioned independently",
+        "Corpus integrity preserved across transitions"
+      ]
+    },
+    "12_version_transition_state_machine": {
+      "allowed": [
+        "MAJOR → MINOR → PATCH",
+        "MAJOR → PATCH",
+        "MINOR → PATCH",
+        "PATCH → PATCH"
+      ],
+      "forbidden": [
+        "PATCH → MINOR without ADR",
+        "PATCH → MAJOR without ADR",
+        "MINOR → MAJOR without structural change",
+        "Any transition contradicting roadmap"
+      ],
+      "preconditions": {
+        "major": "Structural or constitutional change",
+        "minor": "Capability expansion",
+        "patch": "Stability refinement"
+      }
+    },
+    "13_compliance_audit": {
+      "requirements": [
+        "Architectural decision traceability",
+        "Governance auditability",
+        "Compliance alignment",
+        "Deterministic evolution"
+      ]
+    },
+    "14_document_control": {
+      "document_owner": "Governance Authority",
+      "change_authority": "ADRs",
+      "review_cycle": "Per MAJOR release or structural amendment"
+    },
+    "v1_1_summary_of_changes": [
+      "Consolidated all schema additions under MINOR",
+      "Clarified Section 7",
+      "Added Roadmap Governance rules",
+      "Added ADR placement requirements",
+      "Added Corpus Change Protocol",
+      "Added Version Transition State Machine"
+    ],
+    "changelog": []
+  }
+}
