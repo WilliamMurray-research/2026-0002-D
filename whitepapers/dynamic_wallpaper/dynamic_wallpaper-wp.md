@@ -276,5 +276,3 @@ This whitepaper defines a complete, deterministic, and explainable astronomical 
 
 ---
 
-
-Just tell me which one you want next.
