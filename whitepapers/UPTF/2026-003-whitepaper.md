@@ -1,10 +1,26 @@
-Document Reference: `2026-001-UPTF-wp` 
-# **Universal Project Template Framework**  
-### **A Structural, Operational, and Epistemic Architecture for Project Consistency and Auditability**
-### Project Whitepaper v1.0
+# **CLASSIFICATION: D**
+
+Document Reference: `2026-003-whitepaper`
+
+# **Universal Project Template Framework: A Structural, Operational, and Epistemic Architecture for Project Consistency and Auditability**
+
+### Technical Standard v1.0
+
+### Structural, Operational, and Epistemic Architecture Specification
+
 ---
+
 #### William Murray
+
 #### 29 July 2026
+
+---
+
+**Status:** Stable
+
+**Scope:** Defines the Universal Project Template Framework (UPTF) as a deterministic, governance-aligned meta-template scaffold. Specifies structural invariants, superset domain models, append-only operational logs, and immutable versioning layers to enforce cross-project consistency, auditability, and epistemic stability.
+
+**Primary Model / Scheme:** U‑CMS‑PTF‑1 (Universal Project Template & Structural Governance Model)
 
 ---
 
