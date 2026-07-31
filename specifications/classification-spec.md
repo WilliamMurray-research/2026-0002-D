@@ -7,7 +7,9 @@ Document Reference: `2025-001-spec`
 #### 5 June 2025  
 ---  
 **Status**: Draft  
+
 **Scope**: Formatting and governance rules for high‑level, strictly confidential strategic report title pages.  
+
 **Primary Model / Scheme**: Security Classification & Title‑Page Governance Model (SC‑TPGM)
 
 ---
