@@ -93,15 +93,16 @@ A document type focused on conceptual, strategic, or exploratory content rather 
 
 ---
 
-# **5. Classification Classes (Normative)**
+# **5. Classification Classes (Normative)**  
+*(Amended to include Class D — Non‑Sensitive)*
 
-## **5.1 Class A — Strictly Confidential**
+## **5.1 Class A — Strictly Confidential**  
 Normative description:  
-Class A documents require **maximum visual signalling**, repeated banners, and explicit legal notices.
+Class A documents require **maximum visual signalling**, repeated top/bottom banners, and explicit legal notices.
 
 Triggers:  
 - High‑level circulation  
-- Strategic or sensitive content  
+- Strategic or highly sensitive content  
 - Risk of unauthorized disclosure
 
 Semantic summary:  
@@ -109,7 +110,7 @@ Class A represents **maximum‑sensitivity strategic documents**.
 
 ---
 
-## **5.2 Class B — Confidential**
+## **5.2 Class B — Confidential**  
 Normative description:  
 Requires clear but non‑repeated markings; no mandatory bottom banner.
 
@@ -122,19 +123,37 @@ Class B represents **moderate‑sensitivity internal documents**.
 
 ---
 
-## **5.3 Class C — Unclassified Sensitive**
+## **5.3 Class C — Unclassified Sensitive**  
 Normative description:  
 Minimal marking; no banners; optional notices.
 
 Triggers:  
 - Operational content  
-- Low‑risk distribution
+- Low‑risk distribution  
+- Material that is not confidential but still benefits from contextual caution
 
 Semantic summary:  
 Class C represents **low‑tier sensitivity**.
 
-**Note:**  
-Only **Class A** applies to the attached document.
+---
+
+## **5.4 Class D — Non‑Sensitive (Public / Open Distribution)**  
+Normative description:  
+Class D documents **shall still carry a classification marker**, but that marker shall explicitly indicate **non‑sensitive status** (e.g. `CLASSIFICATION: PUBLIC`, `CLASSIFICATION: NON‑SENSITIVE`, or `CLASSIFICATION: OPEN`).  
+No confidentiality notices or security banners are required, but the presence of the marker itself is **mandatory** to prove that classification was considered, not omitted.
+
+Triggers:  
+- Public documentation  
+- Open technical standards  
+- Non‑sensitive architectural specifications  
+- Material intended for unrestricted circulation or publication
+
+Semantic summary:  
+Class D represents **zero‑sensitivity documents**, explicitly marked as such.
+
+**Normative rule (for all classes):**  
+> Every governed document **shall** include an explicit `CLASSIFICATION:` field.  
+> Absence of a classification marker **shall be treated as invalid**.
 
 ---
 
