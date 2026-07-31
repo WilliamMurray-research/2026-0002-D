@@ -1,0 +1,151 @@
+# Classification: D  
+Document Reference: `2026-CONTRIB`  
+---
+# **CONTRIBUTIONS DISABLED — Corpus Governance Notice**  
+
+#### William Murray
+#### 31 July 2026
+---
+
+### Status: Stable  
+### Maintainer: Corpus Governance Authority  
+
+---
+
+## **1. Purpose**
+This notice formally declares that **external contributions are disabled** for the governed corpus.  
+The corpus is a **constitutional artefact**, not an open collaborative project.  
+All changes must originate from the **Corpus Governance Authority** and follow the **Unified Corpus Meta‑Standard (U‑CMS)**.
+
+---
+
+## **2. Contribution Policy**
+### **2.1 External Contributions**
+External contributions are **not accepted**.
+
+This includes:
+
+- pull requests  
+- issues proposing changes  
+- unsolicited patches  
+- external ADRs  
+- structural amendments  
+- roadmap modifications  
+
+The corpus is intentionally **closed to external modification**.
+
+---
+
+### **2.2 Internal Contributions**
+Internal contributions are permitted **only** when:
+
+- initiated by the Corpus Governance Authority  
+- justified via ADR  
+- aligned with the corpus roadmap  
+- compliant with SC‑TPGM, SV‑GOV, and TST  
+- validated against corpus integrity rules  
+
+No other contribution pathway exists.
+
+---
+
+## **3. Rationale**
+The corpus is:
+
+- constitutional  
+- deterministic  
+- governance‑aligned  
+- structurally unified  
+- architecturally sensitive  
+
+Allowing external contributions would:
+
+- break corpus integrity  
+- introduce non‑governed artefacts  
+- violate roadmap alignment  
+- undermine deterministic evolution  
+- compromise auditability  
+
+Therefore, contributions remain **disabled by design**.
+
+---
+
+## **4. Governance Alignment**
+This notice is aligned with:
+
+- **U‑CMS Section 6** — Corpus Integrity  
+- **U‑CMS Section 9** — Corpus Change Protocol  
+- **SC‑TPGM Section 6** — Governance Requirements  
+- **SV‑GOV Section 6** — Version Governance Requirements  
+- **TST Section 6** — Structural Consistency Requirement  
+
+All changes must be:
+
+- corpus‑aligned  
+- roadmap‑aligned  
+- ADR‑justified  
+- constitutionally valid  
+
+---
+
+## **5. Allowed Actions**
+Users may:
+
+- read the corpus  
+- reference the corpus  
+- implement governed standards  
+- cite the corpus  
+- distribute Class D documents under Apache 2.0  
+
+Users may **not**:
+
+- modify the corpus  
+- propose changes  
+- submit patches  
+- fork governed standards for modification  
+- alter constitutional artefacts  
+
+---
+
+## **6. Licence Interaction**
+The corpus is licensed under **Apache 2.0**, which permits:
+
+- reuse  
+- redistribution  
+- implementation  
+- derivative works  
+
+However, **licensing does not override corpus governance**.  
+Derivative works must not be represented as part of the governed corpus.
+
+---
+
+## **7. Enforcement**
+Any attempt to modify the corpus outside the governance pathway is:
+
+- rejected  
+- invalid  
+- non‑constitutional  
+- non‑compliant with corpus integrity rules  
+
+The corpus remains **authoritative and immutable** except through ADR‑governed change.
+
+---
+
+## **8. Document Control**
+
+**Document Owner:** Corpus Governance Authority  
+**Change Authority:** Standards Board  
+**Review Cycle:** Per MAJOR corpus change  
+
+---
+
+## **v1.0 Summary of Changes**
+- Declared contributions disabled  
+- Formalized governance pathway  
+- Added rationale and enforcement rules  
+- Added licence interaction clarification  
+- Added corpus‑aligned structural notice  
+
+---
+
