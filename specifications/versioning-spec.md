@@ -1,5 +1,5 @@
 Document Reference: `2026-001-spec`
-# Versioning Specification — General Reference Standard
+# Versioning Specification - General Reference Standard
 ### Technical Standard v1.0
 ### Governance & Architecture Specification  
 ---
