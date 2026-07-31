@@ -1,5 +1,28 @@
-# Risk as a First‑Class Entity in Systems Design
-## Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems
+# **CLASSIFICATION: D**
+
+Document Reference: `2026-001-whitepaper`
+
+# **Risk as a First‑Class Entity in Systems Design: Establishing ISO 27000, ISO 31000, and ISO 42001 as the Minimum Professional Standard for Autonomous and Semi‑Autonomous Systems**
+
+### Technical Standard v1.0
+
+### Risk Governance & Autonomous Systems Specification
+
+---
+
+#### William Murray
+
+#### 26 July 2026
+
+---
+
+**Status:** Stable
+
+**Scope:** Establishes ISO 27000, ISO 31000, and ISO 42001 as the minimum acceptable professional standard for autonomous and semi-autonomous systems. Defines the architectural, legal, and operational requirements for embedding risk as a first-class data type, constraint, and governance primitive in machine-speed system design.
+
+**Primary Model / Scheme:** U‑CMS‑RSK‑1 (First-Class Risk & Autonomous Systems Governance Model)
+
+---
 
 ### Author’s Professional Context
 
