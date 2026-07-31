@@ -10,7 +10,7 @@ Document Reference: `2026-CONTRIB`
 ---
 
 ### Status: Stable  
-### Maintainer: Corpus Governance Authority  
+### Maintainer: William Murray
 
 ---
 
