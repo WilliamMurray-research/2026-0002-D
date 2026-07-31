@@ -1,9 +1,27 @@
-Document Reference: `2026-001-DW-wp` 
-# **Dynamic Island Wallpaper: Astronomical Telemetry & Symbolic Sky Projection**  
-### Technical Whitepaper v1.0 
+# **CLASSIFICATION: D**
+
+Document Reference: `2026-001-whitepaper`
+
+# **Dynamic Island Wallpaper: Astronomical Telemetry & Symbolic Sky Projection**
+
+### Technical Standard v1.0
+
+### Conceptual Analysis & Telemetry Subsystem Specification
+
 ---
+
 #### William Murray
+
 #### 26 July 2026
+
+---
+
+**Status:** Stable
+
+**Scope:** Specifies the astronomical telemetry subsystem for Dynamic Island Wallpaper, covering solar/lunar position computation, lunar phase bucketing, twilight classification, and symbolic sky projection. Establishes the deterministic Python-to-Prolog pipeline for converting physical orbital data into declarative scene DSL states.
+
+**Primary Model / Scheme:** U‑CMS‑AST‑1 (Astronomical Telemetry & Symbolic Sky Model)
+
 ---
 
 ## **Abstract**
