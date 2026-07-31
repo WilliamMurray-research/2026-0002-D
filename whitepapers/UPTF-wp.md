@@ -2,7 +2,7 @@
 ### **A Structural, Operational, and Epistemic Architecture for Project Consistency and Auditability**
 
 ### Project Whitepaper v1.0
-
+---
 #### William Murray
 #### 29 July 2026
 
