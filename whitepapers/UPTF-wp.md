@@ -1,8 +1,10 @@
 # **Universal Project Template Framework**  
 ### **A Structural, Operational, and Epistemic Architecture for Project Consistency and Auditability**
 
-William Murray
-29 July 2026
+### Project Whitepaper v1.0
+
+####William Murray
+####29 July 2026
 
 ---
 
