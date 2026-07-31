@@ -1,5 +1,7 @@
 # Classification: D  
+
 Document Reference: `2026-CONTRIB`  
+
 ---
 # **CONTRIBUTIONS DISABLED — Corpus Governance Notice**  
 
