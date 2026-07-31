@@ -1,9 +1,27 @@
-# Deterministic Architecture Generation via Double‑Entry YAML Ledgers and Prolog Execution Loops
+# **CLASSIFICATION: D**
 
-### Technical Whitepaper v1.0
+Document Reference: `2026-002-whitepaper`
+
+# **Deterministic Architecture Generation via Double‑Entry YAML Ledgers and Prolog Execution Loops**
+
+### Technical Standard v1.0
+
+### Conceptual Analysis & Automated Scaffolding Specification
+
 ---
+
 #### William Murray
+
 #### 30 July 2026
+
+---
+
+**Status:** Stable
+
+**Scope:** Specifies a deterministic architecture-generation mechanism using a double-entry YAML ledger embedded within Markdown artefacts and driven by a Prolog execution engine. Defines ledger invariants, context-resetting generation pipelines, and compliance protocols under the Universal Project Template Framework.
+
+**Primary Model / Scheme:** U‑CMS‑GEN‑1 (Double-Entry Ledger & Deterministic Generation Model)
+
 ---
 ## **Abstract**
 
