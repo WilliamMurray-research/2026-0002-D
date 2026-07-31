@@ -51,5 +51,6 @@ Here are the updated registries with the **Classification** column integrated in
 | `2026-003-whitepaper` | `D` | `whitepaper` | Universal Project Template Framework |
 | `2026-004-whitepaper` | `D` | `whitepaper` | Deterministic Architecture Generation via Double‑Entry YAML Ledgers and Prolog Execution Loops |
 | `2026-005-whitepaper` | `D` | `whitepaper` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Manifolds |
+| `2026-005b-whitepaper` | `D` | `whitepaper` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Manifolds |
 
 ---
