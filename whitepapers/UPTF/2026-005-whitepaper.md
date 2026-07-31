@@ -24,10 +24,6 @@ Document Reference: `2026-005-whitepaper`
 
 ---
 
-Here's a draft revised opening that replaces Sections 1 and 2:
-
----
-
 ## 1. Overview
 
 The UPTF architecture generator was initially implemented as a deterministic Prolog ledger engine: consuming a double-entry YAML ledger, selecting pending artefacts, generating files, and updating state. The design was correct and governance-aligned, but the ledger entries were being treated as checklist items rather than what they structurally are — symbolic references.
