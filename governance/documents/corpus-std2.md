@@ -1,5 +1,5 @@
 # **CLASSIFICATION: D**  
-Document Reference: `2026-003-spec`  
+Document Reference: `2026-002-spec`  
 # **TST – Technical Standard Template**  
 ### Technical Standard v1.0  
 ### Corpus Governance & Architecture Specification  
