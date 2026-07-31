@@ -1,5 +1,5 @@
 # **CLASSIFICATION: D**  
-Document Reference: `2026-101-spec`  
+Document Reference: `2026-002-spec`  
 # **SC‑TPGM – Security Classification & Title‑Page Governance Standard**  
 ### Technical Standard v1.0  
 ### Corpus Governance & Architecture Specification  
