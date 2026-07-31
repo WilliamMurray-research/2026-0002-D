@@ -1,5 +1,5 @@
 # **CLASSIFICATION: D**  
-Document Reference: `2026-001-meta`  
+Document Reference: `2026-001-meta_spec`  
 # **Unified Corpus Meta‑Standard (U‑CMS)**  
 ### Constitutional Governance Specification v1.0  
 ### Corpus‑Level Governance & Architecture Standard  
