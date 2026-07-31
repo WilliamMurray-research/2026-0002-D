@@ -1,9 +1,26 @@
-Document Reference: `2026-*-UPTF-wp` 
-# Structural Emptiness and Null‑Space Artefacts in Deterministic Project Manifolds
-### Preliminary Whitepaper v0.0.1  
+# **CLASSIFICATION: D**
+
+Document Reference: `2026-005-whitepaper`
+
+# **Structural Emptiness and Null‑Space Artefacts in Deterministic Project Manifolds**
+
+### Technical Standard v1.0
+
+### Conceptual Analysis & Hybrid Engine Architecture Specification
+
 ---
-#### William Murray  
-#### 30 July 2026  
+
+#### William Murray
+
+#### 30 July 2026
+
+---
+
+**Status:** Stable
+
+**Scope:** Specifies the refactoring of UPTF architecture generators into pointer-driven dereferencing machines combining Prolog symbolic governance with native C++20 materialisation layers. Establishes the formal model for representing structural emptiness, semantic null-space markers (`null.md`), and deterministic directory manifolds.
+
+**Primary Model / Scheme:** U‑CMS‑PTR‑1 (Pointer Machine Dereferencing & Null-Space Manifold Model)
 
 ---
 
