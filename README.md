@@ -141,7 +141,6 @@ The Unified Asset Registry is structurally aligned with the **Unified Operator A
 ## **Contributions**
 
 Contributions are off.  
-This repository is a governed archive dedicated to long‑arc mastery, structural integrity, and reproducible research.
 
 ---
 
