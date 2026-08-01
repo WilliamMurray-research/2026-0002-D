@@ -16,6 +16,11 @@ Supersedes: `—`
 
 ## **Projects**
 
+
+---
+
+## **Technical**
+
 ## /governance/access_control/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
@@ -28,9 +33,7 @@ Supersedes: `—`
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `2026-001-project-D` | `D` | `project` | 1.0 | `ACTIVE` | 2026-07-30 | 2027-07-30 | William Murray | OPEN | - |  AusRewrite‑T5: Australian English Legal Rewriting Engine - README |
 
----
 
-## **Technical**
 
 ### /governance/documents/
 
