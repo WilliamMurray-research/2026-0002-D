@@ -20,6 +20,8 @@ Supersedes: `2026-001-registry-D (v1.0)`
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | `2026-008-readme-D` | `D` | `readme` | 1.0 | `ACTIVE` | 2026-08-01 | 2027-08-01 | Founding Chief Architect | OPEN | — | Asset Registry Index — Directory Overview & Governance Rules |
+| `2026-001-registry-D` | `D` | `registry` | 1.1 | `ACTIVE` | 2026-08-01 | 2027-08-01 | Corpus Authority | OPEN | `2026-001-registry-D (v1.0)` | Master Document Asset Registry |
+| `2026-002-registry-D` | `D` | `registry` | 1.0 | `ACTIVE` | 2026-08-01 | 2027-08-01 | Founding Chief Architect | OPEN | — | Master Project Registry |
 
 ---
 
