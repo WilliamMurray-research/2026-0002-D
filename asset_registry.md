@@ -1,5 +1,3 @@
-Here are the updated registries with the **Classification** column integrated into each surface:
-
 ## Asset Registry
 
 /governance/documents/
