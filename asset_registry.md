@@ -14,7 +14,19 @@ Supersedes: `—`
 
 ---
 
+## **Projects**
+
 ## /governance/documents/
+
+| **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `2026-001-project-D` | `D` | `project` | 1.0 | `ACTIVE` | 2026-07-30 | 2027-07-30 | William Murray | OPEN | - |  AusRewrite‑T5: Australian English Legal Rewriting Engine - README |
+
+---
+
+## **Technical**
+
+### /governance/documents/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -27,13 +39,13 @@ Supersedes: `—`
 
 ---
 
-## /governance/manuals/
+### /governance/manuals/
 
 | `2026-001-manual-D` | `D` | `manual` | 1.0 | `ACTIVE` | 2026-08-01 | 2027-08-01 | Corpus Authority | OPEN | — | Records Management Manual (RMM-01) |
 
 ---
 
-## /papers/
+### /papers/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,7 +58,7 @@ Supersedes: `—`
 
 ---
 
-## /whitepapers/dynamic_wallpaper/
+### /whitepapers/dynamic_wallpaper/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -54,7 +66,7 @@ Supersedes: `—`
 
 ---
 
-## /whitepapers/risk/
+### /whitepapers/risk/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -62,7 +74,7 @@ Supersedes: `—`
 
 ---
 
-## /whitepapers/UPTF/
+### /whitepapers/UPTF/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -73,7 +85,7 @@ Supersedes: `—`
 
 ---
 
-## Security Classification Scheme
+### Security Classification Scheme
 
 | **Code** | **Level** | **Access Scope** | **Distribution Label** | **Review Cycle** | **Classification Authority** | **Description & Use Case** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -84,7 +96,7 @@ Supersedes: `—`
 
 ---
 
-## SC‑TPGM Header Block — Standard Template
+### SC‑TPGM Header Block — Standard Template
 
 ```markdown
 # **CLASSIFICATION: [D | C | B | A]**
@@ -103,7 +115,7 @@ Supersedes: `[Document Reference] | —`
 
 ---
 
-## Status Vocabulary
+### Status Vocabulary
 
 | **Status** | **Meaning** |
 | --- | --- |
