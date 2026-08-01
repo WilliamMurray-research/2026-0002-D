@@ -1,4 +1,16 @@
-# Asset Registry
+# **CLASSIFICATION: D**
+
+Document Reference: `2026-001-registry-D`  
+Version: `1.0`  
+Status: `ACTIVE`  
+Effective Date: `2026-01-01`  
+Next Review: `2027-01-01`  
+Owner / Custodian: `Corpus Authority`  
+Classification Authority: `Corpus Authority`  
+Distribution: `OPEN`  
+Supersedes: `—`  
+  
+# **Asset Registry**  
 
 ---
 
@@ -17,7 +29,7 @@
 
 ## /governance/manuals/
 
-| `2026-001-manual-D` | `D` | `notice` | 1.0 | `ACTIVE` | 2026-08-01 | 2027-08-01 | Corpus Authority | OPEN | — | Contributions Disabled — Corpus Governance Notice |
+| `2026-001-manual-D` | `D` | `manual` | 1.0 | `ACTIVE` | 2026-08-01 | 2027-08-01 | Corpus Authority | OPEN | — | Records Management Manual (RMM-01) |
 
 ---
 
@@ -56,10 +68,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `2026-003-whitepaper-D` | `D` | `whitepaper` | 1.0 | `ACTIVE` | 2026-01-01 | — | — | OPEN | — | Universal Project Template Framework |
 | `2026-004-whitepaper-D` | `D` | `whitepaper` | 1.0 | `ACTIVE` | 2026-01-01 | — | — | OPEN | — | Deterministic Architecture Generation via Double‑Entry YAML Ledgers and Prolog Execution Loops |
-| `2026-005-whitepaper-D` | `D` | `whitepaper` | 1.1 | `SUPERSEDED` | 2026-01-01 | — | — | OPEN | — | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways |
+| `2026-005-whitepaper-D` | `D` | `whitepaper` | 1.1 | `ACTIVE` | 2026-01-01 | — | — | OPEN | — | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways |
 | `2026-006-whitepaper-D` | `D` | `whitepaper` | 2.0 | `ACTIVE` | 2026-01-01 | — | — | OPEN | `2026-005-whitepaper` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways |
-
-> **Note — 2026-005b resolution:** The original `2026-005b-whitepaper` reference is retired. The original document is retained as `2026-005-whitepaper` (SUPERSEDED, v1.1); the revised document is issued as `2026-006-whitepaper` (ACTIVE, v2.0) with a Supersedes back-reference. Sequential numbering is restored.
 
 ---
 
@@ -78,7 +88,7 @@
 
 ```markdown
 # **CLASSIFICATION: [D | C | B | A]**
-Document Reference: `YYYY-NNN-type`
+Document Reference: `YYYY-NNN-type-[D | C | B | A]`
 Version: `1.0`
 Status: `DRAFT | ACTIVE | SUPERSEDED | ARCHIVED | WITHDRAWN`
 Effective Date: `YYYY-MM-DD`
