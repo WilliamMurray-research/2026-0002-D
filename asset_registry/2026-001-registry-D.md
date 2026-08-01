@@ -15,7 +15,13 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ## **Technical & Governance Artefacts**
 
-### /asset_registry/
+/unified_asset_registry/
+
+| **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-006-notice-D` | `D` | `notice` | 1.0 | `ACTIVE` | 2026-07-31 | — | William Murray | OPEN | — | CONTRIBUTIONS DISABLED — Corpus Governance Notice |
+
+### /unified_asset_registry/asset_registry/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +31,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ---
 
-### /governance/access_control/
+### /unified_asset_registry/governance/access_control/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -33,7 +39,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ---
 
-### /governance/documents/
+### /unified_asset_registry/governance/documents/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -47,7 +53,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ---
 
-### /governance/manuals/
+### /unified_asset_registry/governance/manuals/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -57,7 +63,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ## **Research & Whitepapers**
 
-### /papers/
+### /unified_asset_registry/papers/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -70,7 +76,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ---
 
-### /whitepapers/dynamic_wallpaper/
+### /unified_asset_registry/whitepapers/dynamic_wallpaper/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,7 +84,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ---
 
-### /whitepapers/risk/
+### /unified_asset_registry/whitepapers/risk/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -86,7 +92,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ---
 
-### /whitepapers/UPTF/
+### /unified_asset_registry/whitepapers/UPTF/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
