@@ -22,12 +22,6 @@ Supersedes: `—`
 
 ---
 
-# **Records Management Manual (RMM‑01)**  
-**Aligned with ISO 15489‑1:2016**  
-**Sovereign Research Lab — Governance Corpus**
-
----
-
 ## **1. Purpose**
 The Records Management Manual establishes the **principles, structures, controls, and operational procedures** governing the creation, capture, classification, storage, access, retention, and disposal of records within the Sovereign Research Lab.  
 It operationalises the Governance Policy and ensures compliance with **ISO 15489‑1:2016**, embedding records integrity into the lab’s governed cognition and prototyping ecosystems.
