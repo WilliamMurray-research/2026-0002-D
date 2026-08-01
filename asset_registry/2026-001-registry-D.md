@@ -4,25 +4,24 @@ Version: `1.1`
 Status: `ACTIVE`  
 Effective Date: `2026-08-01`  
 Next Review: `2027-08-01`  
-Owner / Custodian: `William Murray`  
-Classification Authority: `Founding Chief Architect`  
+Owner / Custodian: `Corpus Authority`  
+Classification Authority: `Corpus Authority`  
 Distribution: `OPEN`  
 Supersedes: `2026-001-registry-D (v1.0)`  
 
-# **Master Asset & Project Registry**  
+# **Master Document Asset Registry**  
 
 ---
 
-## **1. Project Registry**
+## **Technical & Governance Artefacts**
 
-| **Project Ref** | **Class** | **Stage / Phase** | **Target Date** | **Owner / Lead** | **Primary Tech Stack** | **Governing Spec Ref** | **Repository / Path** | **Canonical Name & Description** |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `PRJ-2026-001` | `D` | `DEV (30%)` | 2026-Q4 | William Murray | Python / HuggingFace / T5 | `2026-001-project-D` | `/projects/aus_rewrite_t5/` | **AusRewrite-T5** — Australian English Legal Rewriting Engine |
-| `PRJ-2026-002` | `B` | `DISCOVERY` | 2027-Q1 | William Murray | Prolog / LISP / Rust | `2026-007-spec-D` | `/projects/manifold_core/` | **Manifold Research Core** — Inference & Deterministic Reasoning Engine |
+### /asset_registry/
+
+| **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| `2026-008-readme-D` | `D` | `readme` | 1.0 | `ACTIVE` | 2026-08-01 | 2027-08-01 | Founding Chief Architect | OPEN | — | Asset Registry Index — Directory Overview & Governance Rules |
 
 ---
-
-## **2. Technical & Governance Artefacts**
 
 ### /governance/access_control/
 
@@ -54,7 +53,7 @@ Supersedes: `2026-001-registry-D (v1.0)`
 
 ---
 
-## **3. Research & Whitepapers**
+## **Research & Whitepapers**
 
 ### /papers/
 
@@ -94,28 +93,3 @@ Supersedes: `2026-001-registry-D (v1.0)`
 | `2026-005-whitepaper-D` | `D` | `whitepaper` | 1.1 | `SUPERSEDED` | 2026-01-01 | — | — | OPEN | — | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways |
 | `2026-006-whitepaper-D` | `D` | `whitepaper` | 2.0 | `ACTIVE` | 2026-08-01 | — | — | OPEN | `2026-005-whitepaper-D` | Structural Emptiness and Null‑Space Artefacts in Deterministic Project Pathways |
 
----
-
-## **4. Governance Standards Reference**
-
-### Security Classification Scheme
-
-| **Code** | **Level** | **Access Scope** | **Distribution Label** | **Review Cycle** | **Classification Authority** | **Description & Use Case** |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| `D` | Public / Unrestricted | Open distribution | `OPEN` | None required | Corpus Authority | Default for public research papers, open-source specifications, and whitepapers intended for external publication or auditability. |
-| `C` | Internal / Restricted | Internal teams or project contributors | `INTERNAL` | Annual | Project Lead | System specifications, internal technical roadmaps, or implementation notes containing non-public operational details but no sensitive IP. |
-| `B` | Confidential / Commercial | Authorised personnel only | `RESTRICTED` | 6-month | Senior Authority | Core proprietary algorithms, stealth-project architectural specs, hardware containment design parameters, or pre-patent intellectual property. |
-| `A` | Air-Gapped / Isolated | Offline / air-gapped environment only | `NO-NET` | On demand | Senior Authority | High-assurance security kernels, sovereign governance rules, or sensitive cryptographic systems forbidden from networked environments. |
-
----
-
-### Status Vocabulary
-
-| **Status** | **Meaning** |
-| :--- | :--- |
-| `DRAFT` | In preparation; not yet approved or effective. |
-| `CONCEPT` | Pre-development evaluation or architectural discovery. |
-| `ACTIVE` / `DEV` | Approved, effective, or under active software engineering. |
-| `SUPERSEDED` | Replaced by a later document/spec; retained for auditability. |
-| `ARCHIVED` | No longer active; retained for historical record only. |
-| `WITHDRAWN` | Removed from use; content should not be relied upon. |
