@@ -1,16 +1,15 @@
-# Classification: D  
+# **CLASSIFICATION: D**    
+Document Reference: `2026-006-notice-D`  
+Version: `1.0`  
+Status: `ACTIVE`  
+Effective Date: `2026-07-31`  
+Next Review: `—`  
+Owner / Custodian: `William Murray`  
+Classification Authority: `Founding Chief Architect`  
+Distribution: `OPEN`  
+Supersedes: `—`  
 
-Document Reference: `2026-CONTRIB`  
-
----
 # **CONTRIBUTIONS DISABLED — Corpus Governance Notice**  
-
-#### William Murray
-#### 31 July 2026
----
-
-### Status: Stable  
-### Maintainer: William Murray
 
 ---
 
