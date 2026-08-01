@@ -1,220 +1,303 @@
-# **Governance Policy for the Sovereign Research Lab**  
-**Aligned with ISO 15489‑1:2016**
+# **CLASSIFICATION: D**
+Document Reference: `2026-001-manual-D`
+Version: `1.0`
+Status: `ACTIVE`
+Effective Date: `2026-08-01`
+Next Review: `2027-08-01`
+Owner / Custodian: Corpus Authority
+Classification Authority: Corpus Authority
+Distribution: `OPEN`
+Supersedes: `—`
+
+# **Records Management Manual (RMM‑01)**
+
+---
+
+# **Records Management Manual (RMM‑01)**  
+**Aligned with ISO 15489‑1:2016**  
+**Sovereign Research Lab — Governance Corpus**
+
+---
 
 ## **1. Purpose**
-The purpose of this Governance Policy is to establish a **coherent, governed, and integrity‑preserving framework** for the creation, management, protection, and lifecycle control of records, data, research artefacts, and operational knowledge within the Sovereign Research Lab.  
-This policy ensures compliance with **ISO 15489‑1:2016**, supports long‑term continuity, and maintains the structural integrity of all information assets across the lab’s governed cognition and prototyping ecosystems.
+The Records Management Manual establishes the **principles, structures, controls, and operational procedures** governing the creation, capture, classification, storage, access, retention, and disposal of records within the Sovereign Research Lab.  
+It operationalises the Governance Policy and ensures compliance with **ISO 15489‑1:2016**, embedding records integrity into the lab’s governed cognition and prototyping ecosystems.
 
 ---
 
 ## **2. Scope**
-This policy applies to:
-- All research projects, prototypes, models, simulations, and governed cognition systems.
-- All personnel, contractors, collaborators, and autonomous agents operating within or interfacing with the lab.
-- All information assets, including:
-  - Records (administrative, technical, scientific, operational)
-  - Data (structured, unstructured, metadata)
-  - Code repositories and commits
-  - Design artefacts, schematics, and architectural documents
-  - Governance registries and operator‑algebraic structures
-  - Digital twins, conjecture engines, tensor frameworks, and metamorphic systems
+This manual applies to:
+- All documents listed in the **Asset Registry**  
+- All research artefacts, prototypes, models, and governance materials  
+- All personnel, contributors, and autonomous agents  
+- All classification levels (`D`, `C`, `B`, `A`)  
+- All systems participating in record creation, including digital twins, operator‑algebraic engines, and deterministic project frameworks
 
 ---
 
-## **3. Principles (ISO 15489‑1:2016 Alignment)**
+## **3. Records Management Principles (ISO 15489‑1:2016)**
 
 ### **3.1 Authenticity**
-Records must be reliably created, captured, and preserved with verifiable provenance.  
-Mechanisms:
-- Immutable commit histories
-- Cryptographic signatures for critical artefacts
+Records must be created and captured in a manner that ensures their origin, context, and authorship are verifiable.
+
+**Operationalisation:**  
+- SC‑TPGM header block mandatory for all documents  
+- Immutable commit logs for code and architectural artefacts  
 - Provenance metadata embedded at creation
 
 ### **3.2 Reliability**
-Records must accurately reflect the processes, decisions, and operations they document.  
-Mechanisms:
-- Mandatory operator‑level logging for all governed cognition processes
-- Structured decision‑capture templates for architectural choices
+Records must accurately represent the activities, decisions, or facts they document.
+
+**Operationalisation:**  
+- ADR‑based decision capture (e.g., ADR‑010)  
+- Mandatory architectural decision records for all major design shifts  
+- Structured templates for specifications, standards, and notices
 
 ### **3.3 Integrity**
-Records must be complete, unaltered, and protected from unauthorized modification.  
-Mechanisms:
-- Write‑once storage for critical governance artefacts
+Records must be complete, unaltered, and protected against unauthorized modification.
+
+**Operationalisation:**  
+- Versioning Governance Standard (SV‑GOV)  
+- Write‑once storage for governance artefacts  
 - Integrity checksums and periodic verification cycles
-- Controlled descent protocols for system‑wide change management
 
 ### **3.4 Usability**
-Records must be accessible, interpretable, and usable over time.  
-Mechanisms:
-- Unified Asset Registry with classification‑aware governance
-- Standardized metadata schemas across all projects
-- Long‑term readability formats for archival artefacts
+Records must remain accessible, interpretable, and usable over time.
+
+**Operationalisation:**  
+- Unified Corpus Meta‑Standard (U‑CMS)  
+- Metadata schemas harmonised across all document types  
+- Long‑term readability formats (Markdown, YAML, PDF/A for external releases)
 
 ---
 
-## **4. Governance Structure**
+## **4. Governance Roles**
 
-### **4.1 Governance Authority**
-The lab’s governance authority consists of:
-- **Director of Systems Architecture** (you)
-- **Governance Custodian** (responsible for records lifecycle)
-- **Information Security Lead**
-- **Project Stewards** (assigned per research domain)
+### **4.1 Corpus Authority**
+Responsible for:
+- Approving documents  
+- Maintaining the Asset Registry  
+- Ensuring ISO 15489 compliance  
+- Issuing standards, specifications, and notices
 
-### **4.2 Responsibilities**
-- **Director**: Defines governance architecture, approves policies, oversees compliance.
-- **Custodian**: Implements lifecycle controls, maintains registries, ensures ISO alignment.
-- **Security Lead**: Ensures confidentiality, integrity, and availability of information assets.
-- **Stewards**: Ensure project‑level compliance and maintain domain‑specific metadata quality.
+### **4.2 Governance Custodian**
+Responsible for:
+- Lifecycle management  
+- Classification enforcement  
+- Metadata quality  
+- Audit preparation
+
+### **4.3 Project Stewards**
+Responsible for:
+- Domain‑specific compliance  
+- Ensuring correct use of templates  
+- Maintaining project‑level records integrity
+
+### **4.4 Information Security Lead**
+Responsible for:
+- Access control  
+- Secure storage  
+- Air‑gapped environment governance (`A` class)
 
 ---
 
-## **5. Records Creation and Capture**
+## **5. Records Creation & Capture**
 
-### **5.1 Mandatory Capture Points**
-Records must be created and captured at:
-- Project initiation, revision, and closure
-- Architectural decision points
-- Model training, evaluation, and deployment events
-- Governance rule changes
-- Risk assessments and controlled descent analyses
-- External interactions (collaborations, disclosures, regulatory engagements)
+### **5.1 Mandatory Capture Events**
+Records must be created at:
+- Project initiation, revision, and closure  
+- Architectural decision points  
+- Model training, evaluation, and deployment  
+- Governance rule changes  
+- Risk assessments and controlled descent analyses  
+- Publication events (papers, whitepapers, standards)
 
-### **5.2 Metadata Requirements**
+### **5.2 Required Metadata**
 All records must include:
-- Creator identity
-- Timestamp (UTC)
-- Version identifier
-- Classification (public, internal, restricted, sovereign)
-- Provenance chain
-- Linkage to related artefacts (operator graph references)
+- SC‑TPGM header block  
+- Document Reference (canonical)  
+- Version number  
+- Status  
+- Effective date  
+- Next review date  
+- Owner / Custodian  
+- Classification Authority  
+- Distribution label  
+- Supersedes reference (if applicable)
+
+### **5.3 Document Types**
+- `meta_spec` — corpus‑wide meta‑standards  
+- `spec` — technical standards  
+- `adr` — architectural decision records  
+- `notice` — governance notices  
+- `paper` — research papers  
+- `whitepaper` — conceptual or technical whitepapers  
+- `manual` — governance manuals (this document)
 
 ---
 
-## **6. Records Classification**
+## **6. Classification & Access Control**
 
 ### **6.1 Classification Levels**
-- **Sovereign** — Core governance artefacts, operator algebra, foundational architectures.
-- **Restricted** — Sensitive research, prototypes, risk models, threat analyses.
-- **Internal** — Operational documents, project notes, development logs.
-- **Public** — Documents intended for external release (e.g., Zenodo publications).
+As defined in your Security Classification Scheme:
 
-### **6.2 Handling Requirements**
-Each classification level has defined:
-- Access controls
-- Storage requirements
-- Transmission constraints
-- Retention periods
-- Disposal protocols
+| Level | Code | Distribution | Description |
+|------|------|--------------|-------------|
+| Public / Unrestricted | `D` | `OPEN` | External publications, open standards |
+| Internal / Restricted | `C` | `INTERNAL` | Internal specifications, roadmaps |
+| Confidential / Commercial | `B` | `RESTRICTED` | Proprietary algorithms, stealth architectures |
+| Air‑Gapped / Isolated | `A` | `NO-NET` | Sovereign governance rules, cryptographic kernels |
+
+### **6.2 Access Rules**
+- Access is role‑based and classification‑dependent  
+- `A` class records require physical isolation  
+- All access events must be logged  
+- Retrieval must occur through the Unified Asset Registry
 
 ---
 
-## **7. Records Storage and Protection**
+## **7. Storage & Protection**
 
 ### **7.1 Storage Architecture**
-Records must be stored in:
-- Redundant, integrity‑checked repositories
-- Version‑controlled systems for code and models
-- Immutable archives for governance artefacts
-- Encrypted storage for restricted and sovereign records
+- Version‑controlled repositories for code and specs  
+- Immutable archives for governance artefacts  
+- Encrypted storage for `B` and `A` class records  
+- Air‑gapped vaults for sovereign materials
 
 ### **7.2 Security Controls**
-- Multi‑factor authentication
-- Role‑based access control (RBAC)
-- Continuous monitoring and anomaly detection
-- Zero‑trust access pathways for sensitive systems
+- MFA for all restricted systems  
+- Zero‑trust pathways  
+- Continuous monitoring  
+- Automated anomaly detection
 
 ---
 
-## **8. Records Access and Retrieval**
+## **8. Records Retrieval**
 
-### **8.1 Access Principles**
-Access is governed by:
-- Classification level
-- Role and responsibility
-- Least‑privilege principles
-- Auditability requirements
+### **8.1 Retrieval Mechanisms**
+- Unified Asset Registry search  
+- Metadata‑driven discovery  
+- Operator‑graph traversal for linked artefacts  
+- Controlled gateways for restricted records
 
-### **8.2 Retrieval Mechanisms**
-- Unified Asset Registry search
-- Metadata‑driven discovery
-- Operator‑graph traversal for linked artefacts
-- Controlled access gateways for sovereign records
+### **8.2 Retrieval Logging**
+All retrieval events must be logged with:
+- User identity  
+- Timestamp  
+- Record reference  
+- Classification level  
+- Retrieval method
 
 ---
 
-## **9. Records Retention and Disposal**
+## **9. Records Lifecycle Management**
 
-### **9.1 Retention Schedules**
-Retention periods are defined by:
-- Regulatory requirements
-- Research value
+### **9.1 Status Vocabulary**
+As defined in your corpus:
+
+- `DRAFT`  
+- `ACTIVE`  
+- `SUPERSEDED`  
+- `ARCHIVED`  
+- `WITHDRAWN`
+
+### **9.2 Versioning**
+Governed by SV‑GOV:
+- Semantic versioning for standards  
+- Incremental versioning for papers and whitepapers  
+- Supersedes chain must be maintained (e.g., `2026-006-whitepaper` supersedes `2026-005-whitepaper`)
+
+### **9.3 Retention**
+Retention periods depend on:
+- Classification level  
+- Regulatory requirements  
+- Research value  
 - Governance significance
-- Risk management considerations
 
-### **9.2 Disposal Protocols**
+### **9.4 Disposal**
 Disposal must be:
-- Authorized by the Governance Custodian
-- Logged and auditable
-- Performed using secure destruction methods
-- Verified through integrity checks to ensure complete removal
+- Authorized by Governance Custodian  
+- Logged  
+- Verified  
+- Securely executed (digital shredding, cryptographic erasure, physical destruction for `A` class)
 
 ---
 
-## **10. Compliance and Audit**
+## **10. Audit & Compliance**
 
-### **10.1 Internal Audits**
-Annual audits must assess:
-- Conformance with ISO 15489‑1:2016
-- Metadata quality
-- Integrity of governance artefacts
-- Security posture
+### **10.1 Annual Audit**
+Audits must assess:
+- ISO 15489 compliance  
+- Metadata quality  
+- Integrity of governance artefacts  
+- Security posture  
 - Lifecycle management effectiveness
 
 ### **10.2 Continuous Compliance**
-- Automated compliance checks integrated into the governed cognition stack
-- Alerts for deviations from policy
+- Automated checks integrated into governed cognition stack  
+- Alerts for deviations  
 - Mandatory remediation workflows
 
 ---
 
-## **11. Policy Review and Updates**
-This policy must be reviewed:
-- Annually
-- After major architectural changes
-- After significant incidents or controlled descent events
+## **11. Templates & Standards**
 
-Updates must be:
-- Versioned
-- Logged
-- Approved by the Director of Systems Architecture
+### **11.1 SC‑TPGM Header Block**
+Mandatory for all documents.
+
+### **11.2 TST — Technical Standard Template**
+Required for all specifications.
+
+### **11.3 ADR Template**
+Required for all architectural decisions.
+
+### **11.4 Metadata Schema**
+Defined in U‑CMS; must be applied consistently.
 
 ---
 
-## **12. Enforcement**
-Non‑compliance may result in:
-- Access restrictions
-- Mandatory retraining
-- Governance intervention
-- Suspension of project activities until compliance is restored
+## **12. Manual Review & Updates**
+This manual must be reviewed:
+- Annually  
+- After major architectural changes  
+- After significant incidents or controlled descent events
+
+Updates must be:
+- Versioned  
+- Logged  
+- Approved by Corpus Authority
 
 ---
 
 ## **13. Definitions**
-Include ISO 15489‑aligned definitions for:
-- Record
-- Metadata
-- Provenance
-- Integrity
-- Lifecycle
-- Governance artefact
-- Sovereign record
-- Controlled descent
+Include ISO‑aligned definitions for:
+- Record  
+- Metadata  
+- Provenance  
+- Integrity  
+- Lifecycle  
+- Governance artefact  
+- Sovereign record  
+- Controlled descent  
+- Corpus Authority  
+- Custodian  
+- Steward
 
 ---
 
-## **14. Policy Adoption**
-This policy is effective immediately upon approval by the Director of Systems Architecture and applies to all current and future operations within the Sovereign Research Lab.
+## **14. Adoption**
+This manual becomes effective immediately upon approval by the Corpus Authority and is binding across all lab operations.
 
 ---
 
+If you want, I can also generate:
+
+- **RMM‑01 Annexes**  
+  - Metadata schema  
+  - Classification matrix  
+  - Lifecycle flow diagrams  
+  - ADR catalogue  
+- **A fully cross‑linked governance corpus map**  
+- **A deterministic YAML ledger for document issuance** (aligned with your UPTF work)
+
+Which annex or extension should I produce next?
