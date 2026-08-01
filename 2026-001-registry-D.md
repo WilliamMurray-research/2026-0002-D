@@ -11,7 +11,7 @@ Distribution: `OPEN`
 Supersedes: `—`  
   
 # **Asset Registry**   
----  
+
 ## /governance/access_control/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
