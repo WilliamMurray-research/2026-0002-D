@@ -1,24 +1,16 @@
 # **CLASSIFICATION: D**
 
-Document Reference: `2026-001-manual-D`
-
-Version: `1.0`
-
-Status: `ACTIVE`
-
-Effective Date: `2026-08-01`
-
-Next Review: `2027-08-01`
-
-Owner / Custodian: Corpus Authority
-
-Classification Authority: Corpus Authority
-
-Distribution: `OPEN`
-
-Supersedes: `—`
-
-# **Records Management Manual (RMM‑01)**
+Document Reference: `2026-001-manual-D`  
+Version: `1.0`  
+Status: `ACTIVE`  
+Effective Date: `2026-08-01`  
+Next Review: `2027-08-01`  
+Owner / Custodian: Corpus Authority  
+Classification Authority: Corpus Authority  
+Distribution: `OPEN`  
+Supersedes: `—`  
+  
+# **Records Management Manual (RMM‑01)**  
 
 ---
 
