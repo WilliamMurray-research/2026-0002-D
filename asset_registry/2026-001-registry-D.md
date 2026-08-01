@@ -48,7 +48,6 @@ Supersedes: `2026-001-registry-D (v1.0)`
 | `2026-003-spec-D` | `D` | `spec` | 1.0 | `ACTIVE` | 2026-01-01 | 2027-01-01 | Corpus Authority | OPEN | — | TST — Technical Standard Template |
 | `2026-004-spec-D` | `D` | `spec` | 1.0 | `ACTIVE` | 2026-01-01 | 2027-01-01 | Corpus Authority | OPEN | — | SV‑GOV — Versioning Governance Standard |
 | `2026-005-adr-D` | `D` | `adr` | 1.0 | `ACTIVE` | 2026-01-01 | 2027-01-01 | Corpus Authority | OPEN | — | ADR‑010 — Suffix Schema Formalization |
-| `2026-006-notice-D` | `D` | `notice` | 1.0 | `ACTIVE` | 2026-01-01 | — | Corpus Authority | OPEN | — | Contributions Disabled — Corpus Governance Notice |
 | `2026-001-project-D` | `D` | `project` | 1.0 | `ACTIVE` | 2026-07-30 | 2027-07-30 | William Murray | OPEN | — | AusRewrite‑T5: Australian English Legal Rewriting Engine Project Specification |
 
 ---
