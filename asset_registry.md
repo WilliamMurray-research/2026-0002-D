@@ -16,6 +16,12 @@ Supersedes: `—`
 
 ## **Projects**
 
+## /governance/access_control/
+
+| **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| '2026-007-spec-D` | `D` | `spec` | 1.0 | `ACTIVE` | 2026-08-01 | 2027-08-01 | William Murray | OPEN | — | IDM-01 — Information Disclosure Matrix Specification |
+
 ## /governance/documents/
 
 | **Document Ref** | **Class** | **Type** | **Version** | **Status** | **Effective Date** | **Next Review** | **Owner** | **Distribution** | **Supersedes** | **Canonical Title** |
