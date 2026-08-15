@@ -1,6 +1,30 @@
-# **Unified Asset Registry**
+`2026-0002-D-read-001.md`  
 
-The **Unified Asset Registry** is the governed, canonical repository for all formal, operational, and conceptual artefacts produced across the research ecosystem. It consolidates every foundational component — including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and structural frameworks — into a single, unified, audit‑ready archive.
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-0002-D-read-001`  
+# Unified Asset Registry
+### Project Readme
+
+**Type**: read  
+**Classification**: D  
+**Version**: 1.0     
+
+William Murray  
+Systems Architect  
+14 August 2026  
+
+**Status**: Draft     
+
+**Scope**: Defines the purpose, governance posture, structural invariants, and operational boundaries of the Unified Asset Registry as the canonical repository for programme artefacts. Establishes the ruleset for asset inclusion, lifecycle management, and cross‑domain integration.
+
+**Primary Model / Scheme**: UAR Core Schema v1.0 — the governing structural model defining asset identity, provenance encoding, classification tiers, version semantics, and cross‑registry linkage patterns.
+
+---
+
+The Unified Asset Registry is the governed, canonical repository for all formal, operational, and conceptual artefacts produced across the research ecosystem. It consolidates every foundational component — including standards, schemas, templates, compilers, DSLs, proofs, algorithms, and structural frameworks — into a single, unified, audit‑ready archive.
 
 This registry serves as the operational backbone of the broader programme. It enforces structural invariants, preserves provenance, and maintains coherence across all projects and domains. Each asset is catalogued, versioned, and integrated within a consistent architectural framework designed for long‑arc stability, reproducible governance, and due‑diligence clarity.
 
