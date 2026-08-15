@@ -6,11 +6,11 @@
 
 **Document Reference**: `2026-0002-D-read-001`  
 # Unified Asset Registry
-### Project Readme
+### Governance  
 
 **Type**: read  
 **Classification**: D  
-**Version**: 1.0     
+**Version**: 0.1       
 
 William Murray  
 Systems Architect  
@@ -20,7 +20,7 @@ Systems Architect
 
 **Scope**: Defines the purpose, governance posture, structural invariants, and operational boundaries of the Unified Asset Registry as the canonical repository for programme artefacts. Establishes the ruleset for asset inclusion, lifecycle management, and cross‑domain integration.
 
-**Primary Model / Scheme**: UAR Core Schema v1.0 — the governing structural model defining asset identity, provenance encoding, classification tiers, version semantics, and cross‑registry linkage patterns.
+**Primary Model / Scheme**: UAR Core Schema — the governing structural model defining asset identity, provenance encoding, classification tiers, version semantics, and cross‑registry linkage patterns.
 
 ---
 
