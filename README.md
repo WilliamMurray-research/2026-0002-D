@@ -8,8 +8,7 @@
 # Unified Asset Registry
 ### Governance  
 
-**Type**: read  
-**Classification**: D  
+**Type**: read   
 **Version**: 0.1       
 
 William Murray  
