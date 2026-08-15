@@ -1,21 +1,33 @@
-# **CLASSIFICATION: D**
-Document Reference: `2026-002-registry-D`  
-Version: `1.0`  
-Status: `ACTIVE`  
-Effective Date: `2026-08-01`  
-Next Review: `2027-08-01`  
-Owner / Custodian: `Founding Chief Architect`  
-Classification Authority: `Corpus Authority`  
-Distribution: `OPEN`  
-Supersedes: `—`  
+`2026-0002-reg-D-002.md`  
 
-# **Project Registry**  
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-0002-reg-D-002`  
+# Project Registry  
+### Governance  
+
+**Type**: read   
+**Version**: 1.3       
+
+William Murray  
+Systems Architect  
+15 August 2026  
+
+**Status**: Draft     
+
+**Scope**: This registry serves as the authoritative ledger for all software systems, research implementations, and hardware infrastructure projects within the organization. While `2026-001-registry-D` tracks static document assets, specifications, and published papers, `2026-002-registry-D` governs the active operational lifecycle, technical stack parameters, deployment target milestones, and governing specification mappings for engineering initiatives.   
+
+**Primary Model / Scheme**: The core architectural pattern, data model, or design paradigm the project is organised around. One or two sentences — name the pattern and state what role it plays.  
+
+  
 
 ---
 
 ## **1. Overview & Operational Scope**
 
-This registry serves as the authoritative ledger for all software systems, research implementations, and hardware infrastructure projects within the organization. While `2026-001-registry-D` tracks static document assets, specifications, and published papers, `2026-002-registry-D` governs the active operational lifecycle, technical stack parameters, deployment target milestones, and governing specification mappings for engineering initiatives.
+
 
 ---
 
