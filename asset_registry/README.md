@@ -1,20 +1,31 @@
-# **CLASSIFICATION: D**  
-Document Reference: `2026-008-readme-D`  
-Version: `1.0`  
-Status: `ACTIVE`  
-Effective Date: `2026-08-01`  
-Next Review: `2027-08-01`  
-Owner / Custodian: `Founding Chief Architect`  
-Classification Authority: `Corpus Authority`  
-Distribution: `OPEN`  
+`2026-0002-D-read-002.md`  
 
-# **Asset Registry Directory (`/asset_registry/`)**
+---
+
+**CLASSIFICATION**: D  
+
+**Document Reference**: `2026-0002-D-read-002`  
+# Unified Asset Registry
+### Governance  
+
+**Type**: read   
+**Version**: 0.1       
+
+William Murray  
+Systems Architect  
+14 August 2026  
+
+**Status**: Draft     
+
+**Scope**: The `/asset_registry/` directory contains the authoritative ledgers and classification governance standards for the entire organization. It serves as the single source of truth for tracking active engineering projects, technical specifications, academic research, governance notices, and security clearance schemas.  
+
+**Primary Model / Scheme**: 
 
 ---
 
 ## **1. Overview**
 
-The `/asset_registry/` directory contains the authoritative ledgers and classification governance standards for the entire organization. It serves as the single source of truth for tracking active engineering projects, technical specifications, academic research, governance notices, and security clearance schemas.
+
 
 ---
 
