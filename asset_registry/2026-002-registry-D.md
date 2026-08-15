@@ -1,10 +1,10 @@
-`2026-0002-reg-D-002.md`  
+`2026-0002-D-reg-002.md`  
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `2026-0002-reg-D-002`  
+**Document Reference**: `2026-0002-D-reg-002`  
 # Project Registry  
 ### Governance  
 
