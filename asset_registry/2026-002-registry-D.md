@@ -1,4 +1,3 @@
-```markdown
 # **CLASSIFICATION: D**
 Document Reference: `2026-002-registry-D`  
 Version: `1.0`  
