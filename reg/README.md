@@ -8,7 +8,7 @@
 # Global Asset Registry  
 ### Governance  
 
-**Type**: reg   
+**Type**: Register     
 **Version**: 0.1       
 
 William Murray  
