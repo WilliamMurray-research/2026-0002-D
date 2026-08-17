@@ -5,10 +5,9 @@
 **CLASSIFICATION**: D  
 
 **Document Reference**: `2026-0002-D-read-001`  
-# Unified Asset Registry
+# Unified Asset Registry - README. 
 ### Governance  
 
-**Type**: read   
 **Version**: 0.1       
 
 William Murray  
