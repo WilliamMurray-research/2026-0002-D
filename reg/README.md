@@ -27,4 +27,6 @@ Research Architect
 
 ### Repository README  
 
-| **Document Ref** | **Version** | **Comments** | **Description** |
+| **Document Ref** | **Comments** | **Description** |
+|---|---|
+|   |   |
