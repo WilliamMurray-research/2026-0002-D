@@ -23,10 +23,8 @@ Research Architect
 
 ---
 
-## Directory Contents
 
-### Repository README  
+| Document Reference | Comments | Description |
+|---|---|---|
+| (Add ref) | (Add notes) | (Add summary) |
 
-| **Document Ref** | **Comments** | **Description** |
-|---|---|
-|   |   |
