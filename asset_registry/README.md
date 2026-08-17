@@ -8,18 +8,17 @@
 # Unified Asset Registry
 ### Governance  
 
-**Type**: read   
 **Version**: 0.1       
 
 William Murray  
-Systems Architect  
+Research Architect  
 14 August 2026  
 
 **Status**: Draft     
 
 **Scope**: The `/asset_registry/` directory contains the authoritative ledgers and classification governance standards for the entire organization. It serves as the single source of truth for tracking active engineering projects, technical specifications, academic research, governance notices, and security clearance schemas.  
 
-**Primary Model / Scheme**: 
+**Primary Model / Scheme**: tmp & spec. 
 
 ---
 
