@@ -25,7 +25,7 @@ Research Architect
 
 <div align="center">
 
-  <h1>Centered Title</h1>
+
 | Document Reference | Comments | Description |
 |---|---|---|
 | (Add ref) | (Add notes) | (Add summary) |
