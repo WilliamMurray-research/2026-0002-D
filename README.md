@@ -19,7 +19,7 @@ Research Architect
 
 **Scope**: Defines the purpose, governance posture, structural invariants, and operational boundaries of the Unified Asset Registry as the canonical repository for programme artefacts. Establishes the ruleset for asset inclusion, lifecycle management, and cross‑domain integration.
 
-**Primary Model / Scheme**: UAR Core Schema — the governing structural model defining asset identity, provenance encoding, classification tiers, version semantics, and cross‑registry linkage patterns.
+**Primary Model / Scheme**: [2026-0001-D-tmp-001](https://github.com/WilliamMurray-research/2026-0001-D/blob/main/docs/tmp/001.md)  
 
 ---
 
