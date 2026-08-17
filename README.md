@@ -19,7 +19,7 @@ Research Architect
 
 **Scope**: Defines the purpose, governance posture, structural invariants, and operational boundaries of the Unified Asset Registry as the canonical repository for programme artefacts. Establishes the ruleset for asset inclusion, lifecycle management, and cross‑domain integration.
 
-**Primary Model / Scheme**: [2026-0001-D-read-002](https://github.com/WilliamMurray-research/2026-0001-D/blob/main/docs/tmp/002.md) 
+**Primary Model / Scheme**: [2026-0001-D-tmp-002](https://github.com/WilliamMurray-research/2026-0001-D/blob/main/docs/tmp/002.md) 
 
 ---
 
