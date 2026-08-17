@@ -8,7 +8,7 @@
 # Sub-Directory Asset Registry  
 ### Governance  
 
-**Type**: reg   
+**Type**: Asset Registry     
 **Version**: 0.1       
 
 William Murray  
