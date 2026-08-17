@@ -5,7 +5,7 @@
 **CLASSIFICATION**: D  
 
 **Document Reference**: `2026-0002-D-reg-000`  
-# Global Asset Registry  
+# Local Asset Registry  
 ### Governance  
 
 **Type**: Register     
@@ -17,7 +17,7 @@ Research Architect
 
 **Status**: Draft     
 
-**Scope**: This registry contains a record of all digital assets held globally.    
+**Scope**: This registry contains a record of all digital assets held in GitHub.    
 
 **Primary Model / Scheme**: [2026-0001-D-tmp-001](https://github.com/WilliamMurray-research/2026-0001-D/blob/main/docs/tmp/001.md)  
 
