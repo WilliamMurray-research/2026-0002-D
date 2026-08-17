@@ -1,3 +1,5 @@
+**From Naming Specification**  
+
 Based on Section 11 (Registry Compliance) and the surrounding architecture defined in Specification 3.1, the central asset registry must track the following fields across two core scopes: System Counters / State and Directory & Document Metadata.
 1. Global System Counters (Registry Level)
 To enforce global uniqueness and sequence integrity, the registry must track high-level counters:
