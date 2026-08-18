@@ -32,13 +32,7 @@ This registry serves as the operational backbone of the broader programme. It en
 
 To maintain a unified, governed, and structurally coherent record of all artefacts that underpin the research ecosystem. The registry provides:
 
-- A **single source of truth** for all operational and formal assets  
-- **Governed structure** ensuring consistency, auditability, and ISO‑aligned standards  
-- **Cross‑domain integration** spanning symbolic, computational, dynamical, and architectural systems  
-- **Provenance tracking** from conceptual origin to operational deployment  
-- **Structural coherence** across the entire research roadmap and the Unified Operator Architecture programme  
 
-This repository is not a collection of files; it is the formal substrate that anchors the ecosystem, ensuring that every artefact — conceptual or operational — is preserved, governed, and unified under a single architectural standard.
 
 ---
 
@@ -66,17 +60,6 @@ Architectural frameworks, operator models, and structural systems that support t
 
 ### **Asset Register**  
 A governed index of all artefacts, including provenance, versioning, classification, and structural metadata.
-
----
-
-# **Discovery & Inspiration**
-
-The **Discovery & Inspiration** section documents the conceptual lineage of the research ecosystem: where each insight emerged, what inspired it, and which governed asset it traces back to. This provides a transparent, auditable record of intellectual development across symbolic, computational, dynamical, and architectural domains. Each discovery is catalogued in a structured table, with direct links to the originating artefacts within the registry.
-
-This section ensures that every idea — whether a formal theorem, an operator‑tier insight, a DSL design constraint, or a computational behaviour — is grounded in its source asset, preserving provenance and enabling long‑arc traceability.
-
-**→ See the full Discovery & Inspiration Table**  
-`[unified-asset-registry/discovery-inspiration/discovery-inspiration-table.md]`
 
 ---
 
@@ -120,7 +103,7 @@ Each directory contains:
 
 ## **Governance Model**
 
-The Unified Asset Registry operates under a strict governance model:
+The Unified Asset Registry operates under a strict ISO aligned governance model:
 
 - **Structural invariants** define mandatory directory and file layouts  
 - **Versioning rules** ensure reproducibility and auditability  
@@ -132,37 +115,7 @@ This governance model ensures that every artefact is structurally sound, reprodu
 
 ---
 
-## **Relationship to the Research Ecosystem**
-
-The Unified Asset Registry is one of the core repositories in the ecosystem, alongside:
-
-- Project Template Framework  
-- Digital Twin Wallpaper  
-- Conjecture Convergence Engine  
-- Knowledge Layer  
-- Local Git  
-- Hashimoto Simulations  
-- Metamorphic Systems (Prolog & Lisp)  
-- Tensor‑Based Information Representation  
-- AusRewrite‑T5  
-- Speculative Decoding for Accuracy  
-- Scaling‑Precision Ideation Lab  
-- Hyperbolic Hashimoto Dynamics  
-- Unified Operator Architecture corpus  
-
-It provides the formal and operational substrate that supports all of these projects.
-
----
-
-## **Long‑Arc Context**
-
-The Unified Asset Registry is structurally aligned with the **Unified Operator Architecture (UOA)** — the long‑arc centre of gravity for the entire research programme. As UOA develops, the registry ensures that all supporting artefacts remain coherent, governed, and unified under a single architectural standard.
-
----
-
-## **Contributions**
-
-Contributions are off.  
+**Contributions are off.  **
 
 ---
 
